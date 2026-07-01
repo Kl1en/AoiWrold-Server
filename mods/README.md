@@ -36,17 +36,36 @@
 - [🛋️ Мебель и декор](decorations-furniture.md)
 - [🧱 Blockus — блоки](blockus.md)
 - [🍳 Farmer's Delight — еда и кухня](farmers-delight.md)
+- [🖼️ Image2Map — картинки на карты](image2map.md)
+- [🗿 Armor Poser — позы стоек](armor-poser.md)
 
 ## 🗺️ Мир
 - [🌌 Enderscape — оверхол Энда](enderscape.md)
 - [🐾 Friends&Foes — новые мобы](friends-and-foes.md)
+- [🐌 Lovely Snails — большие улитки](lovely-snails.md)
 - [🏰 Структуры](structures.md)
 - [🌲 Биомы](biomes.md)
+- [🏆 Наборы достижений](advancements.md)
+
+## 🌿 Качество жизни
+- [📖 Polydex — рецепты в игре](polydex.md)
+- [🌾 Harvest with ease — сбор ПКМ](harvest-with-ease.md)
+- [🚪 Openable — быстрые двери](openable.md)
+- [🐄 ClickMobs — подбор мобов](clickmobs.md)
+- [🔧 BetterThanMending — умная «Починка»](better-than-mending.md)
+- [⚙️ Grind Enchantments — чары на точиле](grind-enchantments.md)
+- [📊 ItemLore — статистика предметов](item-lore.md)
+- [🌿 Vanilla Refresh — 30+ улучшений](vanilla-refresh.md)
+- [🎁 Personal Loot — персональный лут](personal-loot.md)
+- [🔥 Костры — лечение и защита](campfires.md)
+- [🧩 Мелкие твики](small-tweaks.md)
 
 ## 🎙️ Социальное
 - [🔊 Voice Chat — голосовой чат](voice-chat.md)
 - [💃 Emotecraft — эмоции](emotecraft.md)
 - [🧍 Customizable Player Models](cpm.md)
+- [🤗 Headpats — погладить по голове](headpats.md)
+- [😴 SleepPoll — голосование за пропуск ночи](sleeppoll.md)
 
 ---
 
